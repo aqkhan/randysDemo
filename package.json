@@ -1,0 +1,29 @@
+{
+  "name": "randysdemo",
+  "version": "0.0.1",
+  "description": "Demo for RandysWorldWide",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqkhan/randysDemo-ui.git"
+  },
+  "keywords": [
+    "Next.js"
+  ],
+  "author": "A Q Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqkhan/randysDemo-ui/issues"
+  },
+  "homepage": "https://github.com/aqkhan/randysDemo-ui#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
